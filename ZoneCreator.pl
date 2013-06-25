@@ -1,4 +1,4 @@
-pttps://github.com/kylebuckingham/Perl_Zone_Creator.git
+https://github.com/kylebuckingham/Perl_Zone_Creator.git
 
 #!/opt/csw/bin/perl
 # Purpose: web based tool for host and ip dns queries.
